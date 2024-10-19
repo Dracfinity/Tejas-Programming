@@ -1,5 +1,13 @@
+body{
+  background-color:black;
+}
+
 #Topbar{
   width:100vw;
   height:5vh;
   background-color:red;
+}
+
+#title{
+  text-color:white;
 }
